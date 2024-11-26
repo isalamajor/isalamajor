@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Isabel Hernández!
 💻 Final-year Computer Engineering student at **UC3M**, Madrid, Spain 🇪🇸  
 ✨ Passionate about **software**, **full-stack development** & the creative side of coding  
-🎨 Combining my love for **art** & **technology** through web programming  
+🎨 I love painting, fashion, playing sports & learning languages  
 
 ## 🚀 What I'm doing:  
 - Building **responsive and dynamic web apps** with **React** & **Next.js** ⚛️  
