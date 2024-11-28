@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Isabel Hernández!
-💻 Final-year Computer Engineering student at **UC3M**, Madrid, Spain 🇪🇸  
+💻 I'm a final-year Computer Engineering student at **UC3M** 🇪🇸  
 ✨ Passionate about **software**, **full-stack development** & the creative side of coding  
 🎨 I love painting, fashion, playing sports & learning languages  
 
