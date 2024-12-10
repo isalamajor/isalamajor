@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Isabel Hernández!
+# 👋 Hi there, I’m Isa!
 💻 I'm a final-year Computer Engineering student at **UC3M** 🇪🇸  
 ✨ Passionate about **software**, **full-stack development** & the creative side of coding  
 🎨 I love painting, fashion, playing sports & learning languages  
