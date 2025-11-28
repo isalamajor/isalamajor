@@ -1,4 +1,6 @@
 # 👋 Hi there, I’m Isa!
+👋🏻 [IsabelHdezCV](https://isalamajor.github.io/)
+
 💻 I'm a final-year Computer Engineering student at **UC3M** 🇪🇸  
 ✨ Passionate about **software**, **full-stack development** & the creative side of coding  
 🎨 I love painting, fashion, playing sports & learning languages  
@@ -10,7 +12,6 @@
 - Deepening my skills in **API development** 🌐  
 
 ## 📌 Let’s connect!  
-👋🏻 [IsabelHdezCV](https://isalamajor.github.io/)
 💼 [LinkedIn](https://linkedin.com/in/isabel-hernández-barrio-408a38326)  
 ✉️ isahbarrio@gmail.com  
 
