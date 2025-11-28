@@ -10,6 +10,7 @@
 - Deepening my skills in **API development** 🌐  
 
 ## 📌 Let’s connect!  
+👋🏻 [IsabelHdezCV](https://isalamajor.github.io/)
 💼 [LinkedIn](https://linkedin.com/in/isabel-hernández-barrio-408a38326)  
 ✉️ isahbarrio@gmail.com  
 
