@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Isa!
-👋🏻 [IsabelHdezCV](https://isalamajor.github.io/)
+👋🏻 [IsabelHdezWebCV](https://isalamajor.github.io/)
 
 💻 I'm a final-year Computer Engineering student at **UC3M** 🇪🇸  
 ✨ Passionate about **software**, **full-stack development** & the creative side of coding  
